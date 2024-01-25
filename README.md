@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=BDBDC8&height=50&section=header" />
 
-eunseongjo 
+**_EunSeong Jo_**
 <a href="mailto:tkakfkekdk4@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tkakfkekdk4@gmail.com"/>
 </a>
