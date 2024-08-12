@@ -1,4 +1,4 @@
-<div align-center>
+<div align=center>
 
 **_EunSeong Jo_**
 <a href="mailto:tkakfkekdk4@gmail.com">
@@ -12,3 +12,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunseongjo)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=BDBDC8&height=50&section=footer" />
+
+</div>
