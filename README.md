@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=BDBDC8&height=50&section=header" />
+<div align-center>
 
 **_EunSeong Jo_**
 <a href="mailto:tkakfkekdk4@gmail.com">
